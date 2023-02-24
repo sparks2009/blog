@@ -1,3 +1,25 @@
+
+<p> You can access the Blog <a href="https://markonesolutions.com">here </a> and you will be presented with a display of appended posts which can be presented in full by clicking on each individual post's title </p>
+
+<p>The complete list of posts can be condensed by Category by searching via the Category drop-down box and/or a list of posts containing part, or all, of text via the search box. </p>
+
+</p>At the top right of the page are the Login and Register buttons which you can use to register a new user or login an already registered user. When logged in the user can, at the welcome drop down box at the top right of the page, create a new post or log out.</p>
+
+<p>When logged in you will notice on the individual posts there are extra buttons to either edit or delete that particular post. (Please don't delete all the posts!).</p>
+
+<p>When logged in and an individual post is displayed there is the option to create a comment (and read other's comments) for that particular post under the login name that you have chosen when you logged in.</p>
+
+<p>At the top right of the page there is also the option to Subscribe for updates which, when clicked, will bring the user to the bottom of the page where they have the option to enter their email address and subscribe to a Mailchimp account for future subscriptions of posts.</p>
+
+
+    
+    
+
+
+
+
+
+<!--
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -58,6 +80,8 @@ In order to ensure that the Laravel community is welcoming to all, please review
 ## Security Vulnerabilities
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+-->
+
 
 ## License
 
